@@ -22,6 +22,6 @@
 7-4.internet bağlan
 ![WhatsApp Görsel 2024-10-27 saat 17 39 28_0dc7cd63](https://github.com/user-attachments/assets/be477581-3404-4fce-a377-314cdcd2ec0f)
  7-5.ubuntu nasıl indirmek istiyorsunuz?
-   ![WhatsApp Görsel 2024-10-27 saat 16 07 53_0c5598d5](https://github.com/user-attachments/assets/2af6d90e-8fff-43e7-919b-58de0d17db73)  
+ ![WhatsApp Görsel 2024-10-27 saat 16 07 53_0c5598d5](https://github.com/user-attachments/assets/2af6d90e-8fff-43e7-919b-58de0d17db73)  
   8.bitti
    ![WhatsApp Görsel 2024-10-27 saat 16 08 13_df3c5351](https://github.com/user-attachments/assets/bcba86b2-e3b6-4896-a1e4-b4a7927142d3)
