@@ -20,7 +20,7 @@
 7-3.klavye dili
 ![WhatsApp Görsel 2024-10-27 saat 16 04 55_2e07a01b](https://github.com/user-attachments/assets/a0717a2f-6e76-4772-8537-5440882c7114)
 7-4.internet bağlan
-![WhatsApp Görsel 2024-10-27 saat 16 05 18_9b7a2fda](https://github.com/user-attachments/assets/32a22fdf-a078-4996-b8fd-95079dab0d25)
+![WhatsApp Görsel 2024-10-27 saat 17 39 28_0dc7cd63](https://github.com/user-attachments/assets/be477581-3404-4fce-a377-314cdcd2ec0f)
  7-5.ubuntu nasıl indirmek istiyorsunuz?
    ![WhatsApp Görsel 2024-10-27 saat 16 07 53_0c5598d5](https://github.com/user-attachments/assets/2af6d90e-8fff-43e7-919b-58de0d17db73)  
   8.bitti
