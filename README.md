@@ -18,9 +18,9 @@
 7-2.dil seçiyoruz
  ![WhatsApp Görsel 2024-10-27 saat 16 03 21_13a68a95](https://github.com/user-attachments/assets/a64e5d6a-5527-40eb-94d6-916df9b84729)
 7-3.klavye dili
-   ![WhatsApp Görsel 2024-10-27 saat 16 04 55_2e07a01b](https://github.com/user-attachments/assets/a0717a2f-6e76-4772-8537-5440882c7114) 
- 7-4.internet bağlan
-   ![WhatsApp Görsel 2024-10-27 saat 16 05 18_830245b3](https://github.com/user-attachments/assets/f21d9299-267a-47df-b192-2cd2b081f656) 
+![WhatsApp Görsel 2024-10-27 saat 16 04 55_2e07a01b](https://github.com/user-attachments/assets/a0717a2f-6e76-4772-8537-5440882c7114)
+7-4.internet bağlan
+![WhatsApp Görsel 2024-10-27 saat 16 05 18_9b7a2fda](https://github.com/user-attachments/assets/32a22fdf-a078-4996-b8fd-95079dab0d25)
  7-5.ubuntu nasıl indirmek istiyorsunuz?
    ![WhatsApp Görsel 2024-10-27 saat 16 07 53_0c5598d5](https://github.com/user-attachments/assets/2af6d90e-8fff-43e7-919b-58de0d17db73)  
   8.bitti
