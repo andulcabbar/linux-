@@ -1,6 +1,6 @@
 # linux-
 1. ubuntu indirmemiz gerekir
-2. 
+
   ![WhatsApp Görsel 2024-10-27 saat 15 11 51_feea3409](https://github.com/user-attachments/assets/800f5aa7-fe9c-41f7-a9b2-851bf9088522)
 2.disk yöntemiye girmemiz gerekir
 
