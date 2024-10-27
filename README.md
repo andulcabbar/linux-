@@ -12,7 +12,6 @@
 6.yeni birim yapıştırmamız gerekir
  ![WhatsApp Görsel 2024-10-27 saat 15 46 30_f420733f](https://github.com/user-attachments/assets/d1798fdf-257c-4c74-973e-824e53059f1a)
 7.bilgisayar yeniden başlatıp bios girmemiz gerekir
- ![WhatsApp Görsel 2024-10-27 saat 15 55 21_9fe18d4e](https://github.com/user-attachments/assets/877cf9d5-8865-4dda-a889-2840d7b68560)
 7-1.bios girdikten sonra boot menu basarız ondan sonra ubuntu seçeriz
  ![WhatsApp Görsel 2024-10-27 saat 15 58 49_26cae15d](https://github.com/user-attachments/assets/274d2c2b-1c21-4586-b090-c5a02d7e890f)
 7-2.dil seçiyoruz
